@@ -2,4 +2,3 @@ title: A Basic Guide to Orchestral VSTs
 remote_theme: rundocs/jekyll-rtd-theme
 readme_index:
   with_frontmatter: true
-show_sorted: false
