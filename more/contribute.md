@@ -6,7 +6,11 @@ sort: 3
 
 If there's a change you'd like to make in the guide, feel free to submit a pull request in the GitHub repository [here](https://github.com/stormsoundmusic/vst).
 
-If you're looking to add a new library and accompanying information, please format it as specified below:
+If you're looking to add a new library and accompanying information, please format it as follows:
+
+```note
+In the example below, `{ws}` represents whitespace (spacebar).
+```
 
 ```
 **{library/collection title}**{ws}{ws}
@@ -21,8 +25,4 @@ If you're looking to add a new library and accompanying information, please form
 
 **DETAILS:**{ws}{ws}
 {describe any essential details (this section is optional)}
-```
-
-```note
-In the above example, `{ws}` represents whitespace (spacebar).
 ```
