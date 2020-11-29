@@ -1,6 +1,5 @@
 ---
 sort: 1
-show_sorted: false
 ---
 
 # Orchestra
