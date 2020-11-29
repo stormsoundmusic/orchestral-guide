@@ -1,14 +1,10 @@
-# Intro
+# A Basic Guide to Orchestral VSTs
 
-**A Basic Guide to Orchestral VSTs** 
+**Author:** StormSound
 
-by StormSound
+**Last updated:** December 13, 2018
 
-**Status:**
-
-Last updated: `December 13, 2018`
-
-Changes made: `Added CSB, Inspire 2. Refactored Hollywood Orchestra. Minor tweaks.`
+**Changes made:** Added CSB, Inspire 2. Refactored Hollywood Orchestra. Minor tweaks.
 
 ## What is this guide?
 
