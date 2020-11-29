@@ -18,7 +18,7 @@ A word to the wise: In the end you’re the one spending your hard-earned money,
 
 It’s unrealistic for me to own and have extensive experience with every single one of these libraries. This guide is meant to introduce you to the best options out there so that you can do some more research on the products that interest you and make a final decision for yourself.
 
-If you found this guide helpful, please consider donating [here](paypal.me/stormsound).
+If you found this guide helpful, please consider donating [here](https://paypal.me/stormsound).
 
 ## Terminology
 
