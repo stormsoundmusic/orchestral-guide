@@ -11,7 +11,7 @@ Product bundles, which are composed of smaller products (usually divided into st
 ---
 
 **Metropolis Ark series**  
-Orchestral Tools - Works with free Kontakt Player  
+Orchestral Tools - Works with the free Kontakt Player  
 *[Metropolis Ark 1](https://www.orchestraltools.com/store/collections/metropolis-ark-1) €550 / [Metropolis Ark 2](https://www.orchestraltools.com/store/collections/metropolis-ark-2) €450 / [Metropolis Ark 3](https://www.orchestraltools.com/store/collections/metropolis-ark-3) €550*
 
 **STRENGTHS:**  
@@ -28,7 +28,7 @@ Each product is relatively niche.
 ---
 
 **Berlin Orchestra Inspire**  
-Orchestral Tools - Works with free SINE Player  
+Orchestral Tools - Works with the free SINE Player  
 *[Inspire](https://www.orchestraltools.com/store/collections/inspire-1) / [Inspire 2](https://www.orchestraltools.com/store/collections/inspire-2) each €400*
 
 **STRENGTHS:**  
@@ -40,7 +40,7 @@ One mic position. Can't access every individual orchestral section.
 ---
 
 **Jaeger (Essential Modern Orchestra)**  
-Audio Imperia - Works with free Kontakt Player  
+Audio Imperia - Works with the free Kontakt Player  
 *$600 / [More info](https://www.audioimperia.com/products/jaeger-essential-modern-orchestra)*
 
 **STRENGTHS:**  
@@ -52,7 +52,7 @@ Only the most basic articulations are provided. Legato articulation is not avai
 ---
 
 **Albion series**  
-Spitfire Audio - Works with free Kontakt Player  
+Spitfire Audio - Works with the free Kontakt Player  
 *[ONE](https://www.spitfireaudio.com/shop/a-z/albion-one/) / [Iceni](https://www.spitfireaudio.com/shop/a-z/albion-iii-iceni/) / [Uist](https://www.spitfireaudio.com/shop/a-z/albion-iv-uist/) / [Tundra](https://www.spitfireaudio.com/shop/a-z/albion-tundra/) each $450*
 
 **STRENGTHS:**  
