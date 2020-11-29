@@ -14,8 +14,10 @@ Looking back to when I was just starting out with virtual instruments, I realize
 
 I’ll do my best to keep this up to date as new libraries are released. If you have any questions, comments, or input, please post in [this associated forum thread](https://vi-control.net/community/threads/buyers-basic-guide-to-orchestral-sample-libraries.49450/) over at VI-Control. If you are overwhelmed with the information in this guide, I would recommend creating a thread on that forum that asks your question and/or explains your situation. There are lots of people there willing to help you out – just keep in mind that the community can be biased toward specific developers, so don’t take anyone’s word as gospel.
 
-A word to the wise: In the end you’re the one spending your hard-earned money, so it’s you who has to be happy with your purchase. I may claim that a library is essential, beloved, and great value for your money, but you should still be watching the walkthroughs and judging for yourself. If you don’t like what you’re hearing, don’t buy it.
-
-It’s unrealistic for me to own and have extensive experience with every single one of these libraries. This guide is meant to introduce you to the best options out there so that you can do some more research on the products that interest you and make a final decision for yourself.
+It’s unrealistic to expect me to have extensive experience with every single one of the libraries included in this guide. Instead, you can view this as a resource meant to introduce you to the best options out there so that you can do some more research on the products that interest you and make a final decision for yourself.
 
 If you found this guide helpful, please consider donating [here](https://paypal.me/stormsound).
+
+```tip
+In the end you’re the one spending your hard-earned money, so it’s you who has to be happy with your purchase. I may claim that a library is essential, beloved, and great value for your money, but you should still be watching the walkthroughs and judging for yourself. If you don’t like what you’re hearing, don’t buy it.
+```
