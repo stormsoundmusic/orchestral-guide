@@ -1,6 +1,8 @@
 # Intro
 
-**A Basic Guide to Orchestral VSTs** by StormSound
+**A Basic Guide to Orchestral VSTs** 
+
+by StormSound
 
 **Status:**
 
