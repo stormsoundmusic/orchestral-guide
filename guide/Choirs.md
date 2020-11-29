@@ -4,43 +4,54 @@ sort: 6
 
 # Choirs
 
-• Strezov Next Generation Choir series – Strezov Sampling – *Requires full Kontakt
-Wotan Male Choir $330 / Freyja Female Choir $330 / Arva Children Choir $430
+**Strezov Next Generation Choir series**  
+Strezov Sampling – Requires sample player purchase (Kontakt)  
+*[Wotan Male Choir](https://www.strezov-sampling.com/products/view/WOTAN-Male-Choir.html) €275 / [Freyja Female Choir](https://www.strezov-sampling.com/products/view/FREYJA-Female-Choir.html) €275 /[ Arva Children Choir](https://www.strezov-sampling.com/products/view/arva.html) €350*
 
-STRENGTHS: Incredible sound, fantastic scripting. Features and functionality are consistent across the series.
+**STRENGTHS:**  
+Incredible sound, fantastic scripting. Features and functionality are consistent across the series.
 
-WEAKNESSES: Each volume covers just one group of choral performers so to have a fully versatile choir you will need to spend more.
+**WEAKNESSES:**  
+Each volume covers just one group of choral performers so to have a fully versatile choir you will need to spend more.
 
-• Oceania – Performance Samples – *Requires full Kontakt
-$270 / More info
+---
 
-STUB: Incredibly playable choir meant for energetic, thematic writing.
+**Olympus Symphonic Choir**  
+Soundiron- Works with the free Kontakt Player  
+*[Micro](https://soundiron.com/collections/choirs/products/olympus-micro-choir) $40 / [Elements](https://soundiron.com/collections/choirs/products/olympus-elements) $100 / [Full](https://soundiron.com/products/olympus-symphonic-choir) $550*
 
-• Olympus Symphonic Choir – Soundiron- Kontakt Player Library
-Micro $30 / Elements $100 / Full $550
+**STUB:**  
+A very vanilla choir library, includes everything you would expect a choral VST to include (though boys’ choir is a separate package).
 
-STUB: A very vanilla choir library, includes everything you would expect a choral VST to include (though boys’ choir is a separate package).
+---
 
-• Lacrimosa Epic Choir – 8Dio – *Requires full Kontakt
-$600 / More info
+**Oceania**  
+Performance Samples – Requires sample player purchase (Kontakt)  
+*$270 / [More info](https://www.performancesamples.com/oceania/)*
 
-STRENGTHS: A massive 200-person choir designed for maximum force. Is surprisingly adept at lower dynamics. Very lush and rich.
+**STRENGTHS**  
+Incredibly playable choir meant for energetic, thematic writing.
 
-WEAKNESSES: The size of the choir makes it very inflexible for doing anything smaller or more intimate. It can also cause problems regarding realism when taking layering and polyphony into consideration (too large and dense).
+**WEAKNESSES:**  
+No legato.
 
-• VOXOS Epic Choirs – Cinesamples – Kontakt Player Library
-$500 / More info
+---
 
-STUB: A solid basic choral package.
+**Eric Whitacre Choir**
+Spitfire Audio - Works with the free Kontakt Player  
+*$600 / [More info](https://www.spitfireaudio.com/shop/a-z/eric-whitacre-choir/)*
 
-• Mercury Symphonic Boychoir – Soundiron – *Requires full Kontakt
-Elements $100 / Full $400
+**STUB:**  
+A lush choir library focused on softer dynamics. Includes a wide assortment of articulations.
 
-STUB: A comprehensive boys’ choir.
+---
 
-• Storm Choir 2 – Strezov Sampling – *Requires full Kontakt
-Core $330 / Exp $190 / Bundle $470
+**Lacrimosa Epic Choir**  
+8Dio – Requires sample player purchase (Kontakt)  
+*$400 / [More info](https://8dio.com/instrument/lacrimosa-epic-choir-for-kontakt-vst-au-aax/)*
 
-STRENGTHS: Great tone and scripting, captures a wide dynamic range.
+**STRENGTHS:**  
+A massive 200-person choir designed for maximum force. Is surprisingly adept at lower dynamics. Very lush and rich.
 
-WEAKNESSES: The “slavonic molto vibrato tone” makes this library less versatile than other general-purpose choirs.
+**WEAKNESSES:**  
+The size of the choir makes it very inflexible for doing anything smaller or more intimate. It can also cause problems regarding realism when taking layering and polyphony into consideration (too large and dense).
