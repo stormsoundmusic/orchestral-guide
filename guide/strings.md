@@ -40,18 +40,6 @@ The comprehensiveness of articulations is undermined by a lack of con sordino sa
 
 ---
 
-**Spitfire Symphonic Strings**  
-Spitfire Audio – Works with the free Kontakt Player  
-*$800 / [More info](https://www.spitfireaudio.com/shop/a-z/spitfire-symphonic-strings/)*
-
-**STRENGTHS:**  
-Great sound, comprehensive selection of articulations.
-
-**WEAKNESSES:**  
-Not quite as useful for aggressive arrangements.
-
----
-
 **Spitfire Chamber Strings**  
 Spitfire Audio – Works with the free Kontakt Player  
 *$700 / [More info](https://www.spitfireaudio.com/shop/a-z/spitfire-chamber-strings/)*
@@ -61,6 +49,27 @@ One of the most reputable chamber strings<sup>[[?]](../more/glossary.md#symphoni
 
 **WEAKNESSES:**  
 Legato transitions can feel a bit bumpy.
+
+---
+
+**Nashville Scoring Strings**  
+Audio Ollie - Requires sample player purchase (Kontakt)  
+*$500 / [More info](https://www.audioollie.com/nashvillescoringstrings)*
+
+**STUB:**  
+Realistic sounding library with excellent performance-based scripting. No 2nd violins. Short articulations are a bit limited.
+
+---
+
+**Spitfire Symphonic Strings**  
+Spitfire Audio – Works with the free Kontakt Player  
+*$800 / [More info](https://www.spitfireaudio.com/shop/a-z/spitfire-symphonic-strings/)*
+
+**STRENGTHS:**  
+Great sound, comprehensive selection of articulations.
+
+**WEAKNESSES:**  
+Not quite as useful for aggressive arrangements.
 
 ---
 
