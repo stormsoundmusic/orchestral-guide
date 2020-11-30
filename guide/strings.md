@@ -60,7 +60,7 @@ Spitfire Audio – Works with the free Kontakt Player
 *$700 / [More info](https://www.spitfireaudio.com/shop/a-z/spitfire-chamber-strings/)*
 
 **STRENGTHS:**  
-One of the most reputable chamber strings libraries. The library is great for adding detail to your tracks, and includes an impressive assortment of articulations.
+One of the most reputable chamber strings <sup>[[?]](../more/glossary.md#symphonic-strings-vs-chamber-strings)</sup> libraries. The library is great for adding detail to your tracks, and includes an impressive assortment of articulations.
 
 **WEAKNESSES:**  
 Legato transitions can feel a bit bumpy.
