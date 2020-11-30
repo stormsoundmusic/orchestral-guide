@@ -23,7 +23,7 @@ The legato scripting is decent but not best-in-class.
 **DETAILS:**  
 This is one of those rare libraries where every single tier is impressively useful for its target audience. Official comparison chart [here](https://d1t3zg51rvnesz.cloudfront.net/p/images/cms2/985/desktop-bbcso_compare-15-may.jpg).
 - **Discover** - Meant for people who are just starting in orchestral music and may not know if it's something they want to invest in. This is an outstanding deal (you can get it for free!) that shockingly includes individually recorded sections. Articulations are *very* limited but it's hard to complain at this price point.
-- **Core** - A fantastic-value orchestral package for anyone. It includes an impressive number of articulations, including legato. If you're not sure how you can jump into detailed orchestral writing, this is an awesome purchase. Only includes one mic position, but you can always upgrade later.
+- **Core** - A fantastic-value orchestral package for anyone. It includes an impressive number of articulations, including legato. If you're not sure how you can jump into detailed orchestral writing, this is an awesome purchase. Only includes one mic position<sup>[[?]](../more/glossary.md#mic-positions)</sup>, but you can always upgrade later.
 - **Professional** - Meant for people who want that extra level of detail and customization provided by extra mic positions and a few additional instruments.
 
 ---
