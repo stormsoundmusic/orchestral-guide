@@ -1,12 +1,16 @@
 ---
-sort: 1
+sort: 3
 ---
 
 # Glossary
 
-## RR
+## Mic positions
 
-Round robin is a technique that involves multiple recordings of the same note for a specific articulation. For example, a cello with 8x RR spiccato means that each spiccato note was sampled 8 times. This enhances realism by allowing the note to sound different each time that you play it, instead of playing the same audio sample over and over.
+Sample libraries often include multiple microphone positions. Each mic position is a recording of the instrument with a specific microphone setup. One mic position may capture the reverberations of the room especially well. Another might be placed close to the instrument to capture the fine details of the sound. When multiple mic positions are provided in a library, it allows the user to mix microphone perspectives together as they see fit, making the instrument more versatile than it would be otherwise.
+
+## Round robin (RR)
+
+ A sampling technique that involves recording the same note for a specific articulation multiple times. For example, a cello with 8x RR spiccato means that each spiccato note was sampled 8 times (potentially for each dynamic). This enhances realism by allowing the note to sound different each time that you play it, instead of playing the same audio sample over and over.
 
 ## Sample player
 

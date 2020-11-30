@@ -33,7 +33,7 @@ Orchestral Tools – Works with the free Kontakt Player
 *[Main Library](https://www.orchestraltools.com/store/collections/berlin-strings) €840 / [Special Bows 1](https://www.orchestraltools.com/store/collections/special-bows-1) €210 / [Special Bows 2](https://www.orchestraltools.com/store/collections/special-bows-2) €160 / [SFX](https://www.orchestraltools.com/store/collections/strings-sfx) €250*
 
 **STRENGTHS:**  
-Has a beautiful and detailed sound. Includes adaptive legato. The developers were extremely thorough in sampling (example: 24x round robin on 1st violins spiccato). Comprehensive collection of articulations.
+Has a beautiful and detailed sound. Includes adaptive legato. The developers were extremely thorough in sampling (example: 24x round robin<sup>[[?]](../more/glossary.md#round-robin-rr)</sup> on 1st violins spiccato). Comprehensive collection of articulations.
 
 **WEAKNESSES:**  
 The comprehensiveness of articulations is undermined by a lack of con sordino samples, and the complete package is very expensive. It is also quite taxing on system resources.
@@ -50,9 +50,6 @@ Great sound, comprehensive selection of articulations.
 **WEAKNESSES:**  
 Not quite as useful for aggressive arrangements.
 
-**DETAILS:**  
-The expansion pack to this library can be purchased only after buying the main library, and includes additional mic positions.
-
 ---
 
 **Spitfire Chamber Strings**  
@@ -60,13 +57,10 @@ Spitfire Audio – Works with the free Kontakt Player
 *$700 / [More info](https://www.spitfireaudio.com/shop/a-z/spitfire-chamber-strings/)*
 
 **STRENGTHS:**  
-One of the most reputable chamber strings <sup>[[?]](../more/glossary.md#symphonic-strings-vs-chamber-strings)</sup> libraries. The library is great for adding detail to your tracks, and includes an impressive assortment of articulations.
+One of the most reputable chamber strings<sup>[[?]](../more/glossary.md#symphonic-strings-vs-chamber-strings)</sup> libraries. The library is great for adding detail to your tracks, and includes an impressive assortment of articulations.
 
 **WEAKNESSES:**  
 Legato transitions can feel a bit bumpy.
-
-**DETAILS:**  
-The expansion pack to this library can be purchased only after buying the main library, and includes additional mic positions.
 
 ---
 

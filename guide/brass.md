@@ -62,9 +62,6 @@ Gorgeous sound, includes a huge variety of articulations, instruments, and secti
 **WEAKNESSES:**  
 Sound isn’t particularly aggressive.
 
-**DETAILS:**  
-The expansion pack to this library can be purchased only after buying the main library and includes additional mic positions.
-
 ---
 
 **Hollywood Brass**  

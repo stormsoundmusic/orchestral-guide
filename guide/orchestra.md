@@ -36,7 +36,7 @@ Orchestral Tools - Works with the free SINE Player
 Samples pulled from the renowned Berlin Series. Provides the bare necessities for orchestral composition. A great foundation to build up from.
 
 **WEAKNESSES:**  
-One mic position. Can't access every individual orchestral section.
+One mic position<sup>[[?]](../more/glossary.md#mic-positions)</sup>. Can't access every individual orchestral section.
 
 ---
 
