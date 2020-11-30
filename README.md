@@ -2,9 +2,7 @@
 
 **Author:** StormSound
 
-**Last updated:** December 13, 2018
-
-**Changes made:** Added CSB, Inspire 2. Refactored Hollywood Orchestra. Minor tweaks.
+**Last updated/Changes made:** Information for all updates is available in the [GitHub repository](https://github.com/stormsoundmusic/orchestral-guide).
 
 ## What is this guide?
 
