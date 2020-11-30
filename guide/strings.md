@@ -21,25 +21,10 @@ Sordino is simulated.
 *[Main Library](https://8dio.com/instrument/century-strings-2-0-normale-edition/) $450 / [Sordino](https://8dio.com/instrument/new-century-ensemble-strings-2-0-sordino/) $350 / [Bundle](https://8dio.com/instrument/new-century-strings-2-bundle/) $600*
 
 **STRENGTHS:**  
-A very fluid and playable library with sampled sordino, great sound, and a comprehensive variety of articulations.
+A very fluid and playable library with great sound and a comprehensive variety of articulations. The sordino is recorded, not simulated!
 
 **WEAKNESSES:**  
 Does not sound as organic as other options.
-
----
-
-**Spitfire Chamber Strings**  
-Spitfire Audio – Works with the free Kontakt Player  
-*$700 / [More info](https://www.spitfireaudio.com/shop/a-z/spitfire-chamber-strings/)*
-
-**STRENGTHS:**  
-The most sought-after chamber strings library. Captures gorgeous sound on a smaller scale. The library is comprehensive and perfect for adding detail to your tracks. An extraordinary assortment of articulations are included.
-
-**WEAKNESSES:**  
-Legato transitions can feel a bit bumpy.
-
-**DETAILS:**  
-The expansion pack to this library can be purchased only after buying the main library, and includes additional mic positions.
 
 ---
 
@@ -70,6 +55,21 @@ The expansion pack to this library can be purchased only after buying the main l
 
 ---
 
+**Spitfire Chamber Strings**  
+Spitfire Audio – Works with the free Kontakt Player  
+*$700 / [More info](https://www.spitfireaudio.com/shop/a-z/spitfire-chamber-strings/)*
+
+**STRENGTHS:**  
+One of the most reputable chamber strings libraries. The library is great for adding detail to your tracks, and includes an impressive assortment of articulations.
+
+**WEAKNESSES:**  
+Legato transitions can feel a bit bumpy.
+
+**DETAILS:**  
+The expansion pack to this library can be purchased only after buying the main library, and includes additional mic positions.
+
+---
+
 **CineStrings CORE**  
 Cinesamples – Works with the free Kontakt Player  
 *$500 / [More info](https://cinesamples.com/product/cinestrings-core)*
@@ -84,8 +84,7 @@ Its neutral tone can sound a little lackluster.
 
 **Hollywood Strings**  
 EastWest – Works with the free PLAY engine  
-*[Gold](http://www.soundsonline.com/hollywood-strings) $265 / [Diamond](http://www.soundsonline.com/hollywood-strings) $400*  
-(EastWest products are often on sale)
+*[Gold](http://www.soundsonline.com/hollywood-strings) $265 / [Diamond](http://www.soundsonline.com/hollywood-strings) $400*
 
 **STRENGTHS:**  
 Great sound, playability, and value for your money. This library set the standard for modern strings sampling.

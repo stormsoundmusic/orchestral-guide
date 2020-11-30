@@ -21,7 +21,7 @@ Orchestral Tools – Works with the free Kontakt Player
 *[Main Library](https://www.orchestraltools.com/store/collections/berlin-brass) €800 / [Additional Instruments](https://www.orchestraltools.com/store/collections/brass-additional-instruments) €200 / [Muted Brass](https://www.orchestraltools.com/store/collections/muted-brass) €250 / [French Horn SFX](https://www.orchestraltools.com/store/collections/french-horn-sfx) €170*
 
 **STRENGTHS:**  
-Includes an unprecedented amount of divisi options with sampled solo players. Covers a wide variety of articulations. Fantastic sound and legato scripting.
+The way the instruments were recorded results in an unprecedented amount of options for divisi and section size customization. Covers a wide variety of articulations. Great sound and legato scripting.
 
 **WEAKNESSES:**  
 Very expensive. Requires more tweaking and micromanaging to make the most out of its features.
@@ -33,10 +33,10 @@ Very expensive. Requires more tweaking and micromanaging to make the most out of
 *[Ensemble Brass](https://8dio.com/instrument/century-ensemble-brass/) $300 / [Solo Brass](https://8dio.com/instrument/century-solo-brass/) $300 / [Bundle](https://8dio.com/instrument/century-brass-bundle/) $400*
 
 **STRENGTHS:**  
-Boasts realistic legato scripting and fluid transitions between articulations. Great dynamic range with an impressive variety of instruments and articulations.
+Boasts realistic legato scripting and relatively fluid transitions between articulations. Great dynamic range with an impressive variety of instruments and articulations.
 
 **WEAKNESSES:**  
-To do standard brass writing, you will need both the solo and ensemble products. Highest dynamics on some patches have an interesting timbre.
+Highest dynamics on some patches have an interesting timbre.
 
 ---
 
@@ -45,7 +45,7 @@ Cinesamples – Works with the free Kontakt Player
 *[CORE](https://cinesamples.com/product/cinebrass-core) $400 / [PRO](https://cinesamples.com/product/cinebrass-pro) $400*
 
 **STRENGTHS:**  
-It’s intuitive and playable. There are also a lot of mic positions available for you to experiment with. PRO packs a punch with options such as 12 Horns and Monster Low Brass. Despite its age, this library is still one of the best sounding (in terms of tone) brass libraries straight out of the box.
+It’s intuitive and playable. Despite its age, this library is still one of the best sounding (in terms of tone) brass libraries straight out of the box. The PRO library packs a punch with options such as 12 Horns and Monster Low Brass.
 
 **WEAKNESSES:**  
 Some have commented on the lesser quality of legato transitions on certain patches.
@@ -69,8 +69,7 @@ The expansion pack to this library can be purchased only after buying the main l
 
 **Hollywood Brass**  
 EastWest – Works with the free PLAY engine  
-*[Gold](http://www.soundsonline.com/hollywood-brass) $265 / [Diamond](http://www.soundsonline.com/hollywood-brass) $400*  
-(EastWest products are often on sale)
+*[Gold](http://www.soundsonline.com/hollywood-brass) $265 / [Diamond](http://www.soundsonline.com/hollywood-brass) $400*
 
 **STRENGTHS:**  
 Great sound, playability, and value for your money. This library set the standard for modern brass sampling.

@@ -16,10 +16,9 @@ Gorgeous sound, very detailed sampling. Extremely comprehensive selection of ins
 **Hollywood Orchestral Percussion**  
 EastWest – Works with the free PLAY engine  
 *[Gold](http://www.soundsonline.com/hollywood-orchestral-percussion) $270 / [Diamond](http://www.soundsonline.com/hollywood-orchestral-percussion) $400*
-(EastWest products are often on sale)
 
 **KNOWN FOR:**  
-Extreme comprehensiveness and specificity (Cymbal crashes with over 10 different cymbals). Excellent value!
+Extreme comprehensiveness and specificity (there are cymbal crashes with over 10 different cymbals). Excellent value!
 
 ---
 

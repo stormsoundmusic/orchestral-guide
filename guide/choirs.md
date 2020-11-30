@@ -9,7 +9,7 @@ Strezov Sampling – Requires sample player purchase (Kontakt)
 *[Wotan Male Choir](https://www.strezov-sampling.com/products/view/WOTAN-Male-Choir.html) €275 / [Freyja Female Choir](https://www.strezov-sampling.com/products/view/FREYJA-Female-Choir.html) €275 /[ Arva Children Choir](https://www.strezov-sampling.com/products/view/arva.html) €350*
 
 **STRENGTHS:**  
-Incredible sound, fantastic scripting. Features and functionality are consistent across the series.
+Incredible sound and fantastic scripting. Features and functionality are consistent across the series.
 
 **WEAKNESSES:**  
 Each volume covers just one group of choral performers so to have a fully versatile choir you will need to spend more.
@@ -21,7 +21,7 @@ Soundiron- Works with the free Kontakt Player
 *[Micro](https://soundiron.com/collections/choirs/products/olympus-micro-choir) $40 / [Elements](https://soundiron.com/collections/choirs/products/olympus-elements) $100 / [Full](https://soundiron.com/products/olympus-symphonic-choir) $550*
 
 **STUB:**  
-A very vanilla choir library, includes everything you would expect a choral VST to include (though boys’ choir is a separate package).
+A very vanilla choir library, includes everything you would expect a choral VST to include. Does not include boys' choir.
 
 ---
 
@@ -29,8 +29,8 @@ A very vanilla choir library, includes everything you would expect a choral VST 
 Performance Samples – Requires sample player purchase (Kontakt)  
 *$270 / [More info](https://www.performancesamples.com/oceania/)*
 
-**STRENGTHS**  
-Incredibly playable choir meant for energetic, thematic writing.
+**STRENGTHS:**  
+An incredibly playable choir meant for energetic, thematic writing.
 
 **WEAKNESSES:**  
 No legato.
