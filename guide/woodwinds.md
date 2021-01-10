@@ -4,15 +4,15 @@ sort: 4
 
 # Woodwinds
 
-**Spitfire Symphonic Woodwinds**  
-Spitfire Audio – Works with the free Kontakt Player  
-*$600 / [More info](https://www.spitfireaudio.com/shop/a-z/spitfire-symphonic-woodwinds/)*
+**Cinematic Studio Woodwinds**  
+Alex Wallbank – Works with the free Kontakt Player  
+*$400 / [More info](https://cinematicstudioseries.com/woodwinds/)*
 
 **STRENGTHS:**  
-Has a gorgeous sound and a variety of instrument sections.
+Has a gorgeous sound, incredibly fluid legato scripting, and a solid variety of instruments for a remarkably generous price.
 
 **WEAKNESSES:**  
-A few patches don’t include as many articulations. Lacks detailed divisi writing options and a runs builder when compared to Berlin Woodwinds.
+Lacks detailed divisi writing options.
 
 ---
 
@@ -25,6 +25,18 @@ Includes a variety of articulations. Having separate patches for each wind playe
 
 **WEAKNESSES:**  
 The collection (and even the base library) is relatively expensive.
+
+---
+
+**Spitfire Symphonic Woodwinds**  
+Spitfire Audio – Works with the free Kontakt Player  
+*$600 / [More info](https://www.spitfireaudio.com/shop/a-z/spitfire-symphonic-woodwinds/)*
+
+**STRENGTHS:**  
+Has a gorgeous sound and a variety of instrument sections.
+
+**WEAKNESSES:**  
+A few patches don’t include as many articulations. Lacks detailed divisi writing options and a runs builder when compared to Berlin Woodwinds.
 
 ---
 
