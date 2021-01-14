@@ -12,7 +12,7 @@ Alex Wallbank – Works with the free Kontakt Player
 Has a gorgeous sound, incredibly fluid legato scripting, and a solid variety of instruments for a remarkably generous price.
 
 **WEAKNESSES:**  
-Lacks detailed divisi writing options.
+Lacks detailed divisi writing options. Only includes basic articulations.
 
 ---
 
