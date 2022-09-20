@@ -54,7 +54,7 @@ One mic position<sup>[[?]](../more/glossary.md#mic-positions)</sup>. Can't acces
 
 **Metropolis Ark series**  
 Orchestral Tools - Works with the free Kontakt Player  
-*[Metropolis Ark 1](https://www.orchestraltools.com/store/collections/metropolis-ark-1) €550 / [Metropolis Ark 2](https://www.orchestraltools.com/store/collections/metropolis-ark-2) €450 / [Metropolis Ark 3](https://www.orchestraltools.com/store/collections/metropolis-ark-3) €550 / [Metropolis Ark 4](https://www.orchestraltools.com/store/collections/metropolis-ark-4) €550*
+*[Metropolis Ark 1](https://www.orchestraltools.com/store/collections/metropolis-ark-1) €550 / [Metropolis Ark 2](https://www.orchestraltools.com/store/collections/metropolis-ark-2) €450 / [Metropolis Ark 3](https://www.orchestraltools.com/store/collections/metropolis-ark-3) €550 / [Metropolis Ark 4](https://www.orchestraltools.com/store/collections/metropolis-ark-4) €550 / [Metropolis Ark 5](https://www.orchestraltools.com/store/collections/metropolis-ark-5) €450*
 
 **STRENGTHS:**  
 These collections sound fantastic. Each product includes sample content that is specially catered to the product's theme. The result? An expansive variety of recorded articulations that cover a number of niche use cases.
@@ -67,6 +67,7 @@ Each product is relatively niche.
 - **Metropolis Ark 2** - Meant for an powerful but quiet sound, great for more subdued tracks. *ppp* to *mp* dynamics.
 - **Metropolis Ark 3** - Meant for an aggressive, rhythmic sound. Includes lots of atonal and repetition articulations, plus a huge variety of epic percussion.
 - **Metropolis Ark 4** - Meant for a dramatic, powerful, and focused sound. *ppp* to *fff* dynamics.
+- **Metropolis Ark 5** - Meant for ...
 
 ---
 
@@ -84,7 +85,7 @@ Only the most basic articulations are provided. Legato is not available for eve
 
 **Albion series**  
 Spitfire Audio - Works with the free Kontakt Player  
-*[ONE](https://www.spitfireaudio.com/shop/a-z/albion-one/) / [Iceni](https://www.spitfireaudio.com/shop/a-z/albion-iii-iceni/) / [Uist](https://www.spitfireaudio.com/shop/a-z/albion-iv-uist/) / [Tundra](https://www.spitfireaudio.com/shop/a-z/albion-tundra/) / [Neo](https://www.spitfireaudio.com/shop/a-z/albion-neo) each $450*
+*[ONE](https://www.spitfireaudio.com/shop/a-z/albion-one/) / [Uist](https://www.spitfireaudio.com/shop/a-z/albion-iv-uist/) / [Tundra](https://www.spitfireaudio.com/shop/a-z/albion-tundra/) / [Neo](https://www.spitfireaudio.com/shop/a-z/albion-neo) each $450*
 
 **STRENGTHS:**  
 Useful and great-sounding collection of instruments including more than just orchestral instruments (most volumes contain mutated samples, loops, and percussion).
@@ -94,7 +95,6 @@ Individual instrument sections are often unavailable - these libraries will not 
 
 **DETAILS:**
 - **Albion ONE** - The vanilla volume, aimed toward a traditional epic sound.
-- **Albion III Iceni** - Aimed toward a powerful, meaty, and occasionally nasty low-end sound.
 - **Albion IV Uist** - An aleatoric volume designed to meet all of your needs for orchestral effects.
 - **Albion Tundra** - Aimed toward the pristine, ethereal sound of an orchestra playing extremely quietly.
 - **Albion Neo** - A volume with smaller section sizes, aimed toward a modern, intimate sound.

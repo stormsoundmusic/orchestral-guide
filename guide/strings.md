@@ -54,7 +54,7 @@ Legato transitions can feel a bit bumpy.
 
 **Nashville Scoring Strings**  
 Audio Ollie - Requires sample player purchase (Kontakt)  
-*$500 / [More info](https://www.audioollie.com/nashvillescoringstrings)*
+*$299 / [More info](https://www.audioollie.com/nashville-scoring-strings)*
 
 **STUB:**  
 Realistic sounding library with excellent performance-based scripting. No 2nd violins. Short articulations are a bit limited.

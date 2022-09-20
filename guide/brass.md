@@ -30,7 +30,7 @@ Very expensive. Requires more tweaking and micromanaging to make the most out of
 
 **Century Brass**  
 8Dio – Requires sample player purchase (Kontakt)  
-*[Ensemble Brass](https://8dio.com/instrument/century-ensemble-brass/) $300 / [Solo Brass](https://8dio.com/instrument/century-solo-brass/) $300 / [Bundle](https://8dio.com/instrument/century-brass-bundle/) $400*
+*[Ensemble Brass](https://8dio.com/products/century-ensemble-brass/) $238 / [Solo Brass](https://8dio.com/products/century-solo-brass/) $238 / [Bundle](https://8dio.com/products/century-brass-bundle/) $400*
 
 **STRENGTHS:**  
 Boasts realistic legato scripting and relatively fluid transitions between articulations. Great dynamic range with an impressive variety of instruments and articulations.
