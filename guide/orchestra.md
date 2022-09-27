@@ -67,7 +67,7 @@ Each product is relatively niche.
 - **Metropolis Ark 2** - Meant for an powerful but quiet sound, great for more subdued tracks. *ppp* to *mp* dynamics.
 - **Metropolis Ark 3** - Meant for an aggressive, rhythmic sound. Includes lots of atonal and repetition articulations, plus a huge variety of epic percussion.
 - **Metropolis Ark 4** - Meant for a dramatic, powerful, and focused sound. *ppp* to *fff* dynamics.
-- **Metropolis Ark 5** - Meant for ...
+- **Metropolis Ark 5** - Meant for drama, with various specialized ensembles and articulations (runs, Shepard tones, FX, etc).
 
 ---
 
